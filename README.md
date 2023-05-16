@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Suhaib Shahid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-suhaib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-suhaib" /> </p>
 
@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [IVY, TreatFair, LeadManagment](https://ivy.revinate.com/)
+- 🔭 I’m currently working on [IVY](https://ivy.revinate.com/)
+- 🔭 I’m currently working on [TreatFair](https://treatfair.org/)
 
 - 🌱 I’m currently learning **AWS**
 
