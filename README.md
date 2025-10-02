@@ -10,9 +10,7 @@
 - 🔭 I’m currently working on [IVY](https://ivy.revinate.com/)
 - 🔭 I’m currently working on [TreatFair](https://treatfair.org/)
 
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Ruby on Rails, React, Nodejs, SpringBoot**
+- 💬 Ask me about **Ruby on Rails, React, Nodejs, SpringBoot, AWS**
 
 - 📫 How to reach me **alisuhaib88@gmail.com**
 
