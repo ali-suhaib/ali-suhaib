@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Suhaib Shahid</h1>
-<h3 align="center">A passionate Fullstack developer from Pakistan</h3>
+<h3 align="center">Senior Software Engineer · Lahore, Pakistan · Remote-first</h3>
+
+<p align="center">🌐 <a href="https://ali-suhaib.vercel.app/"><b>ali-suhaib.vercel.app</b></a> · 📄 <a href="https://ali-suhaib.vercel.app/resume.pdf">Resume</a> · 📅 <a href="https://calendly.com/alisuhaib88/30min">Book a call</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-suhaib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-suhaib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-suhaib" alt="ali-suhaib" /></a> </p>
+I'm **Ali Suhaib**, a Senior Software Engineer with five years of experience building production systems end-to-end, from schema design to cloud deployment. I work on AI-driven backends, graph database architecture, and high-traffic platforms serving 50M+ users. See my work at **[ali-suhaib.vercel.app](https://ali-suhaib.vercel.app/)**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I'm currently building **autonomous AI agents** for a multi-tenant AI CRM, a **Neo4j hereditary cancer knowledge graph** for MUSC, and **Solidus/Rails e-commerce** for Agazon Store
+- 🚀 Past highlights: **GoMoment** (hotel guest messaging, 50M+ guests) · **Taggr** (US-wide smart parking payouts and payments) · **XO Armor** (Electron app for 3D-printed orthotics) · **Revinate** (hospitality CRM APIs)
 
-- 🔭 I’m currently working on [IVY](https://ivy.revinate.com/)
-- 🔭 I’m currently working on [TreatFair](https://treatfair.org/)
-
-- 💬 Ask me about **Ruby on Rails, React, Nodejs, SpringBoot, AWS**
+- 💬 Ask me about **Node.js, TypeScript, Next.js, Ruby on Rails, React, Neo4j, Spring Boot, AWS**
 
 - 📫 How to reach me **alisuhaib88@gmail.com**
 
@@ -18,8 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali-suhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-suhaib" height="30" width="40" /></a>
-<a href="https://fb.com/ali-suhaib-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali-suhaib-shahid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-suhaib-shahid-2bbabb136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-suhaib" height="30" width="40" /></a>
+<a href="https://wa.me/923316717948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://calendly.com/alisuhaib88/30min" target="blank"><img align="center" src="https://cdn.simpleicons.org/calendly/006BFF" alt="Calendly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
